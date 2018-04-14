@@ -1,0 +1,11 @@
+Hello #USERNAME#,
+<br />
+<br />
+This email is to inform you that the IP Address you owned (#ADDRESS#) has been stolen by another user!
+<br />
+<br />
+You can check the status of your IP by visiting us at www.iphuntr.com
+<br />
+<br />
+<br />
+- ipHuntr Alert

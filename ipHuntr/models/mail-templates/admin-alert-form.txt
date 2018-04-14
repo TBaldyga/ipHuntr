@@ -1,0 +1,14 @@
+IPHUNTR AUTO-ALERT MESSAGE
+<br />
+<br />
+ALERT: #ALERT# <br />
+IP ADDRESS: #IP# <br />
+ID: #ID# <br />
+REQUESTS: #VALUE# <br />
+DATE <br />
+<br />
+MESSAGE:
+<br />
+#MESSAGE#
+<br />
+<br />

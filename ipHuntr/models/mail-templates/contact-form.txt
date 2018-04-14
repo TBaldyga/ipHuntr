@@ -1,0 +1,14 @@
+IPHUNTR CONTACT FORM MESSAGE
+<br />
+<br />
+FROM: #NAME# <br />
+EMAIL: #FROM#<br />
+SUBSCRIBE: #CHECKBOX#<br />
+SUBJECT: #SUBJECT# <br />
+DATE <br />
+<br />
+MESSAGE:
+<br />
+#MESSAGE#
+<br />
+<br />
